@@ -1,0 +1,36 @@
+# Typography
+font.family: sans-serif
+font.sans-serif: Inter, Roboto Condensed, Arial
+font.size: 10
+text.color: 333333
+
+# Axes and Spines
+axes.spines.top: False
+axes.spines.right: False
+axes.spines.left: False
+axes.spines.bottom: True
+axes.edgecolor: E0E0E0
+axes.labelcolor: 555555
+axes.titlelocation: left
+axes.titleweight: bold
+axes.titlesize: 14
+axes.titlepad: 15
+
+# Gridlines
+axes.grid: True
+axes.grid.axis: y
+grid.color: EBEBEB
+grid.linestyle: --
+grid.linewidth: 0.7
+axes.axisbelow: True
+
+# Ticks
+xtick.color: 777777
+ytick.color: 777777
+xtick.bottom: False
+ytick.left: False
+
+# Geometries
+lines.linewidth: 1.5
+patch.edgecolor: white
+patch.linewidth: 0.5

@@ -1,0 +1,8 @@
+base:
+  background: "#F5F5F5"
+  context_gray: "#E0E0E0"
+  borders: "#FFFFFF"
+highlight:
+  primary_positive: "#4CAF50"
+  primary_alert: "#D84315"
+  secondary_focus: "#00695C"
