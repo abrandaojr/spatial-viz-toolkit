@@ -1,0 +1,9 @@
+﻿{
+"type": "FeatureCollection",
+"features": [
+{"type": "Feature", "properties": {"region_id": "R1", "status": "Baseline Context", "value": 12.5}, "geometry": {"type": "Polygon", "coordinates": [[[1.0, 0.0], [1.0, 1.0], [0.0, 1.0], [0.0, 0.0], [1.0, 0.0]]]}},
+{"type": "Feature", "properties": {"region_id": "R2", "status": "Baseline Context", "value": 45.2}, "geometry": {"type": "Polygon", "coordinates": [[[2.0, 0.0], [2.0, 1.0], [1.0, 1.0], [1.0, 0.0], [2.0, 0.0]]]}},
+{"type": "Feature", "properties": {"region_id": "R3", "status": "Target Feature", "value": 89.1}, "geometry": {"type": "Polygon", "coordinates": [[[1.0, 1.0], [1.0, 2.0], [0.0, 2.0], [0.0, 1.0], [1.0, 1.0]]]}},
+{"type": "Feature", "properties": {"region_id": "R4", "status": "Baseline Context", "value": 23.4}, "geometry": {"type": "Polygon", "coordinates": [[[2.0, 1.0], [2.0, 2.0], [1.0, 2.0], [1.0, 1.0], [2.0, 1.0]]]}}
+]
+}

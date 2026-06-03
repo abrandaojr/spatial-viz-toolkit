@@ -1,0 +1,9 @@
+﻿year,group_id,category,metric_value,baseline_threshold
+2021,Group_A,Observed Deficit,45.2,50.0
+2021,Group_B,Standard Growth,62.1,50.0
+2022,Group_A,Observed Deficit,48.8,50.0
+2022,Group_B,Standard Growth,65.4,50.0
+2023,Group_A,Critical Alert,32.1,50.0
+2023,Group_B,Standard Growth,71.2,50.0
+2024,Group_A,Critical Alert,28.4,50.0
+2024,Group_B,Standard Growth,75.9,50.0
